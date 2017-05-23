@@ -55,3 +55,7 @@ def number_to_short_month_name(int)
     return "Sep"
   end
 end
+
+def volume_of_cube (first_number, second_number)
+  return first_number *  second_number
+end
